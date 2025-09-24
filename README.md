@@ -1,5 +1,5 @@
 ## New About-Me-Website: https://about-me-website-updated-new.vercel.app
-<img width="1550" height="927" alt="image" src="https://github.com/user-attachments/assets/ba1950ea-eb0f-4826-8208-282e90cc35b4" />
+<img width="1036" height="743" alt="image" src="https://github.com/user-attachments/assets/8e6dec0f-fc4d-4e39-ac8e-cedffc27360e" />
 
 
 ## Old About-Me-Website: https://about-me-web-site-ebon.vercel.app
